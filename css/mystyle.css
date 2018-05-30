@@ -1,0 +1,85 @@
+body{
+	height: 100%;
+}
+#top{
+	background: #092e20;
+	height: 10px;
+}
+.container-fluid{
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#row1{
+	margin: auto;
+}
+#content{
+	width: 400px;
+	padding: 20px;
+	overflow: hidden;
+}
+#content img{
+	margin-right: 15px;
+	float: left;
+}
+.spuph3{
+	color: #004723;
+	font-family: Old English Text MT;
+}
+#spup-header-text{
+	margin-top: 15px;
+	font-size: 20px;
+	line-height: 5px;
+}
+.globally{
+	float: right;
+}
+.header-text-1{
+	font-family: copperplate;
+	font-size: 14px;
+}
+.divider{
+	background: #092e20;
+	height: 4px;
+}
+.nav-wrapper{
+	background-color: #66bb6a;
+}
+.slider{
+	width: 950px;
+	margin: 0 auto;
+}
+.page-footer{
+	background-color: #66bb6a;
+}
+
+#footer{
+	font-size: 15px;
+	line-height: 20px;
+}
+
+/* .parallax{
+	height: 10%;
+	width: auto;
+	opacity: 0.7;
+	min-height: 400px;
+
+} */
+.hymn-header{
+	color: #1b5e20;
+}
+.header-hymn{
+	color: #ffea00;
+}
+.p-hymn{
+	font-weight: 500;
+}
+.pbody{
+	font-weight: 400;
+	font-size: 20px;
+}
+.tab-bg-header{
+	font-weight: 500 ;
+}
+
